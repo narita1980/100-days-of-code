@@ -3,13 +3,19 @@
 ### 0日目: 2016年2月28日
 
 **今日の進捗**:
-1. 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
+1. Firebase Web Codelabのサンプルアプリを実装してみた。
 
 **思ったこと**:
-1. CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
+1. Firebaseを使うと簡単にWebアプリが作成できることが理解できた
+2. `firebase.json` ファイルに記載する以下内容
+```"public": "./"```
+は
+```"public": "./public"```
+の方が良いのではないかと思った。
 
 **リンク**: 
-1. [計算機アプリ](http://www.example.com)
+1. [Firebase Web Codelab](https://friendlychat-fe71d.firebaseapp.com/public/)
+2. [作成したサンプルアプリ](https://friendlychat-fe71d.firebaseapp.com/public/)
 
 ### 1日目: 2016年6月27日（月）
 
