@@ -16,6 +16,7 @@
 **リンク**: 
 1. [Firebase Web Codelab](https://friendlychat-fe71d.firebaseapp.com/public/)
 2. [作成したサンプルアプリ](https://friendlychat-fe71d.firebaseapp.com/public/)
+3. [作成したサンプルアプリのソース](https://github.com/narita1980/friendlychat-web)
 
 ### 1日目: 2016年6月27日（月）
 
