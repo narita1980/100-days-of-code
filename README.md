@@ -12,9 +12,9 @@
 
 ## 参加方法
 
-0.  [公式サイト](http://100daysofcode.com/)で#100DaysOfCodeの活動を見てください。このリスト（www.100DaysOfCode.com/connect）から、好きなプラットフォームを選んで他の参加者と繋がりましょう。
+0.  [公式サイト](https://www.100daysofcode.com/) で#100DaysOfCodeの活動を見てください。この [リスト]（https://www.100daysofcode.com/connect/） から、好きなプラットフォームを選んで他の参加者と繋がりましょう。
     また、[こちら](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA)から100DaysOfCodeのSlackに参加することができます。
-1.  [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)を読んでください。
+1.  [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) を読んでください。
 1.  このリポジトリをフォークして[学習ログ](log.md)、もしくは[R1学習ログ](r1-log.md) (R1はラウンド1の略)に毎日投稿してください。[例](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **これから100日間、毎日最低1時間プログラミングをしましょう。**
 1.  **毎日Twitter上で最低2人の人を応援してください！励まし合っていきましょう。**
@@ -27,9 +27,9 @@
 
 ## その他のチャレンジにも参加してみませんか？
 
-[the #100DaysOfX Challenges Project](http://100daysofx.com/)を見てみてください。習慣が変われば、人生が変わります。始めるなら今です！
+[the #100DaysOfX Challenges Project](http://100daysofx.com/) を見てみてください。習慣が変われば、人生が変わります。始めるなら今です！
 
-私のおすすめは最大でも同時に2,3個以上のチャレンジに同時には参加しないことで、理想は2個です。#100DaysOfCodeのような精神的な強さが必要なチャレンジをしているのであれば、 [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/)や[#100DaysOfFitness](http://100daysofx.com/challenges/)などのチャレンジを同時にやることがおすすめです。
+私のおすすめは最大でも同時に2,3個以上のチャレンジに同時には参加しないことで、理想は2個です。#100DaysOfCodeのような精神的な強さが必要なチャレンジをしているのであれば、 [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/) や [#100DaysOfFitness](http://100daysofx.com/challenges/) などのチャレンジを同時にやることがおすすめです。
 その他にも言語、作文、瞑想、料理などたくさんあるので、色々見て選んでみてください！
 
 ## 備考
