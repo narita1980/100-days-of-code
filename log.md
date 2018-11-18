@@ -1,6 +1,6 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2016年2月28日
+### 0日目: 2018年11月16日
 
 **今日の進捗**:
 1. Firebase Web Codelabのサンプルアプリを実装してみた。
@@ -18,12 +18,11 @@
 2. [作成したサンプルアプリ](https://friendlychat-fe71d.firebaseapp.com/public/)
 3. [作成したサンプルアプリのソース](https://github.com/narita1980/friendlychat-web)
 
-### 1日目: 2016年6月27日（月）
+### 1日目: 2018年11月18日
 
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
+**今日の進捗**: Bulmaの勉強
 
 **思ったこと**: プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
 
 **リンク**:
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Getting started with Bulma](https://bulma.io/documentation/overview/start/)
