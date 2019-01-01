@@ -28,3 +28,15 @@
 
 **リンク**:
 1. [Getting started with Bulma](https://bulma.io/documentation/overview/start/)
+
+### 2日目: 2018年1月1日
+
+**今日の進捗**:
+1. Heroku上にLaravel5.7をすぐに立ち上げられるようにリポジトリを作成した
+
+**思ったこと**:
+1. これがない状態で最初から作成してHeroku上へ公開だと22分かかるが、これ使って手順通りやれば4分で可能。  
+手順書を作成するのも大事だが、シンプルに構築状態のものを作っておくのも大事。
+
+**リンク**:
+1. [Getting Started with Laravel 5.7 on Heroku](https://github.com/narita1980/laravel-getting-started/)
